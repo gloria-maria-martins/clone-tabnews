@@ -1,4 +1,3 @@
 function Home(){
-    return <h1>Experimentando fazer algo pela primeira vez na vida :p</h1>
+    return <h1>Oiê, tudo bom? Se deu pra ver isso, deu certo! :p</h1>
 }
-
